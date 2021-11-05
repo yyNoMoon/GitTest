@@ -1,0 +1,6 @@
+my:
+  name: gaoyue
+  age: 24
+  uuid: ${random.uuid}
+  value: ${random.value}
+  introduction: hello, my name is ${my.name}
