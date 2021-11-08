@@ -60,6 +60,7 @@ public class HelloController {
     }
 
     public void test(){
+        // 注释
         System.out.println("测试推送到远程仓库");
     }
 
